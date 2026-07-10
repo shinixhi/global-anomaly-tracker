@@ -2,7 +2,7 @@ name: Daily Pipeline Automation
 
 on:
   schedule:
-    - cron: '0 7 * * *' 
+    - cron: '0 23 * * *'   
   workflow_dispatch: 
 
 jobs:
