@@ -6,7 +6,7 @@ This data science pipeline runs **completely free** every single day via GitHub 
 
 | Philippine City | Today's Calculated Mean Temp | Anomaly Flag |
 | :--- | :---: | :---: |
-| Manila | 26.9°C | ✅ Normal |
-| Cebu City | 28.9°C | ✅ Normal |
-| Davao City | 26.2°C | ✅ Normal |
-| Baguio | 17.8°C | ✅ Normal |
+| Manila | 27.05°C | ✅ Normal |
+| Cebu City | 29.0°C | 🚨 **YES (Outlier)** |
+| Davao City | 26.25°C | ✅ Normal |
+| Baguio | 17.85°C | ✅ Normal |
