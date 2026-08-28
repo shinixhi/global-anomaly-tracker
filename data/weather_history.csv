@@ -171,3 +171,7 @@ date,city,avg_temp,is_anomaly
 2026-08-27,Cebu City,29.5,False
 2026-08-27,Davao City,26.35,False
 2026-08-27,Baguio,18.05,False
+2026-08-28,Manila,26.5,False
+2026-08-28,Cebu City,28.6,False
+2026-08-28,Davao City,26.25,False
+2026-08-28,Baguio,17.6,False
