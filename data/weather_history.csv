@@ -443,3 +443,7 @@ date,city,avg_temp,is_anomaly
 2026-11-04,Cebu City,28.05,False
 2026-11-04,Davao City,27.85,True
 2026-11-04,Baguio,18.5,False
+2026-11-05,Manila,29.0,False
+2026-11-05,Cebu City,28.15,False
+2026-11-05,Davao City,27.95,True
+2026-11-05,Baguio,17.6,True
