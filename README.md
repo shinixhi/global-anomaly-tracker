@@ -2,11 +2,11 @@
 
 This data science pipeline runs **completely free** every single day via GitHub Actions. It ingests local city climate measurements, tracks moving baselines, and flags statistical temperature anomalies.
 
-### 🕒 Last Pipeline Run: `2026-11-16 PHT`
+### 🕒 Last Pipeline Run: `2026-11-17 PHT`
 
 | Philippine City | Today's Calculated Mean Temp | Anomaly Flag |
 | :--- | :---: | :---: |
-| Manila | 29.55°C | ✅ Normal |
-| Cebu City | 28.6°C | ✅ Normal |
-| Davao City | 26.65°C | ✅ Normal |
-| Baguio | 18.65°C | ✅ Normal |
+| Manila | 29.1°C | ✅ Normal |
+| Cebu City | 29.1°C | ✅ Normal |
+| Davao City | 27.6°C | ✅ Normal |
+| Baguio | 18.35°C | ✅ Normal |
